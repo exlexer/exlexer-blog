@@ -1,5 +1,0 @@
-myNextApplication:
-  component: "@sls-next/serverless-component@3.7.0"
-  inputs:
-    domain: ["blog", "exlexer.com"]
-    domainMinimumProtocolVersion: "TLSv1.2_2018"
