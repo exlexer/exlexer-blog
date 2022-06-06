@@ -1,0 +1,14 @@
+{
+  "region": "us-east-1",
+  "privateZone": false,
+  "domain": "exlexer.com",
+  "subdomains": [
+    {
+      "domain": "www.exlexer.com",
+      "distributionId": "E1J7STDX83RIMG",
+      "url": "https://d3hwn3gywqs6y5.cloudfront.net",
+      "type": "awsCloudFront"
+    }
+  ],
+  "domainMinimumProtocolVersion": "TLSv1.2_2018"
+}
